@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Rishana Sherin
+## <h1 align="center">✨ Hi, I'm Rishana Sherin 👋</h1>
 
-🎓 MSc & BSc in Computer Science  
-💻 Python Full-Stack Developer
-🤖 AI & Backend Development Enthusiast  
+<p align="center">
+  🎓 MSc & BSc in Computer Science • Python Full Stack Developer • 🤖 AI & Backend Development Enthusiast
+</p>
 
 ---
 
