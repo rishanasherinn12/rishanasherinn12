@@ -1,18 +1,16 @@
-## Hi there 👋
-# Hi 👋, I'm Rishana
+## 👋 Hi, I'm Rishana Sherin
 
-🎓 MSc Computer Science Student  
-💻 Python & Django Backend Developer  
-🤖 AI Enthusiast | Problem Solver | Continuous Learner  
+🎓 MSc & BSc in Computer Science  
+💻 Python Full-Stack Developer
+🤖 AI & Backend Development Enthusiast  
 
 ---
 
 ## 👩‍💻 Professional Summary
 
-I am a Computer Science postgraduate student with a strong foundation in **Python, Django, SQL, and AI-based systems**.  
-I focus on building **real-world, scalable applications** with clean backend architecture and well-structured databases.
+I am a Computer Science graduate with both **MSc and BSc degrees** with a strong foundation in **Python, Django, SQL, and AI-based systems**, currently focused on **Python full-stack development**.
 
-I enjoy converting **theory into practical solutions**, debugging complex issues, and continuously improving my problem-solving skills.
+I have hands-on experience building **academic and real-world web applications**, with a strong interest in **backend logic, databases, and AI-driven systems**. I enjoy translating concepts into practical, working solutions and continuously improving my technical skills.
 
 ---
 
@@ -25,24 +23,34 @@ I enjoy converting **theory into practical solutions**, debugging complex issues
 - Product recommendation using CSV-based logic
 - End-to-end pipeline: training → prediction → recommendation
 
-### 🏠 Hyper-Local Service Booking Platform
+### 🏠 Hyper-Local Service Booking Platform (Current)
 - Web platform for booking local services (plumber, electrician, cleaning)
-- Role-based system: **Customer, Service Provider, Admin**
+- Role-based system: **Customer, Admin**
 - Booking lifecycle management
 - Admin assignment workflow
 - Online payment integration (Stripe – planned)
 - Built using **Django + HTML + CSS**
 
+### 🍽️ Food Blog Web Application
+- Django-based web application
+- Users can add and share their own recipes
+- Admin manages and moderates user-submitted posts
+- Built using HTML, CSS, and Bootstrap for responsive UI
+
+### 📚 Library Management System
+- Django-based web application
+- Implements basic CRUD operations
+- Manages book records and user information
+- Focuses on backend logic and Django ORM
+
 ---
 
-## 🧠 Currently Learning & Improving
+## 🎯 Currently Focused On
 
-- Advanced Python problem-solving
-- Django authentication & authorization
-- ORM deep queries & database relations
-- REST API fundamentals
-- SQL joins, subqueries & window functions
-- Core computer science concepts (HTTP, DNS, OS basics)
+- Python Full-Stack Development
+- Backend logic and database design
+- Building scalable web applications
+- Improving problem-solving and debugging skills
 
 ---
 
@@ -51,13 +59,15 @@ I enjoy converting **theory into practical solutions**, debugging complex issues
 ### 💻 Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 </p>
 
 ### 🌐 Web Technologies
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
@@ -76,9 +86,9 @@ I enjoy converting **theory into practical solutions**, debugging complex issues
 
 ### 🗄️ Databases
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
-
 
 ## 📊 GitHub Statistics
 
@@ -119,7 +129,7 @@ I enjoy converting **theory into practical solutions**, debugging complex issues
 ## 📫 Contact
 
 - GitHub: **@rishanasherinn12**
-- Email: *rishanasherin12@gmail.com*
+- Email: *rishanasherinn12@gmail.com*
 
 ---
 
