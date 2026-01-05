@@ -14,34 +14,23 @@ I have hands-on experience building **academic and real-world web applications**
 
 ---
 
-## 🔭 Key Projects
+## 🔭 Projects
 
-### 🧴 Cosmetic Suggestion Based on Skin Condition Using AI
-- MSc Final Year Project
-- Image classification using **MobileNetV2**
-- Detects skin conditions: **Oily, Dry, Acne**
-- Product recommendation using CSV-based logic
-- End-to-end pipeline: training → prediction → recommendation
+**🧴 Cosmetic Suggestion Based on Skin Condition Using AI**  
+- MSc final year project using MobileNetV2 for skin condition classification  
+- Detects oily, dry, and acne-prone skin and recommends products using CSV-based logic  
 
-### 🏠 Hyper-Local Service Booking Platform (Current)
-- Web platform for booking local services (plumber, electrician, cleaning)
-- Role-based system: **Customer, Admin**
-- Booking lifecycle management
-- Admin assignment workflow
-- Online payment integration (Stripe – planned)
-- Built using **Django + HTML + CSS**
+**🏠 Hyper-Local Service Booking Platform (Current)**  
+- Django-based web application for booking local services  
+- Implements role-based access, booking lifecycle management, and admin workflow  
 
-### 🍽️ Food Blog Web Application
-- Django-based web application
-- Users can add and share their own recipes
-- Admin manages and moderates user-submitted posts
-- Built using HTML, CSS, and Bootstrap for responsive UI
+**🍽️ Food Blog Web Application**  
+- Django-based content platform for user-submitted recipes  
+- Admin moderates and manages posts with responsive UI design  
 
-### 📚 Library Management System
-- Django-based web application
-- Implements basic CRUD operations
-- Manages book records and user information
-- Focuses on backend logic and Django ORM
+**📚 Library Management System**  
+- Django-based application implementing CRUD operations  
+- Focuses on backend development and Django ORM usage  
 
 ---
 
