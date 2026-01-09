@@ -79,13 +79,6 @@ I have hands-on experience building **academic and real-world web applications**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishanasherinn12&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishanasherinn12&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
