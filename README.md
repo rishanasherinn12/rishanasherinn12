@@ -81,14 +81,6 @@ I have hands-on experience building **academic and real-world web applications**
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishanasherinn12&theme=github-light&hide_border=true"/>
-</p>
-
----
-
 ## 💡 Strengths
 
 - Strong backend fundamentals
