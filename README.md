@@ -102,7 +102,8 @@ I have hands-on experience building **academic and real-world web applications**
 
 ## 📫 Contact
 
-- GitHub: **@rishanasherinn12**
+- GitHub: [@rishanasherinn12](https://github.com/rishanasherinn12)
+- LinkedIn: [Rishana Sherin](https://www.linkedin.com/in/your-linkedin-username/)
 - Email: *rishanasherinn12@gmail.com*
 
 ---
