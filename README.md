@@ -102,9 +102,17 @@ I have hands-on experience building **academic and real-world web applications**
 
 ## 📫 Contact
 
-- GitHub: [@rishanasherinn12](https://github.com/rishanasherinn12)
-- LinkedIn: [Rishana Sherin](https://www.linkedin.com/in/your-linkedin-username/)
-- Email: *rishanasherinn12@gmail.com*
+<p align="center">
+  <a href="mailto:rishanasherinn12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishana-sherin-119a46387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rishanasherinn12">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
