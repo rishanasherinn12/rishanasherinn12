@@ -81,25 +81,6 @@ I have hands-on experience building **academic and real-world web applications**
 
 ---
 
-## 💡 Strengths
-
-- Strong backend fundamentals
-- Clear understanding of databases & relationships
-- Comfortable with debugging and fixing errors
-- Consistent learner with practical focus
-- Ability to explain technical concepts clearly
-
----
-
-## 🎯 Career Goals
-
-- Become a proficient **Backend / Full-Stack Developer**
-- Gain hands-on industry experience
-- Build production-ready web applications
-- Strengthen problem-solving & system design skills
-
----
-
 ## 📫 Contact
 
 <p align="center">
