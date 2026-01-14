@@ -34,15 +34,6 @@ I have hands-on experience building **academic and real-world web applications**
 
 ---
 
-## 🎯 Currently Focused On
-
-- Python Full-Stack Development
-- Backend logic and database design
-- Building scalable web applications
-- Improving problem-solving and debugging skills
-
----
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
@@ -78,6 +69,15 @@ I have hands-on experience building **academic and real-world web applications**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
+
+---
+
+## 🎯 Currently Focused On
+
+- Python Full-Stack Development
+- Backend logic and database design
+- Building scalable web applications
+- Improving problem-solving and debugging skills
 
 ---
 
