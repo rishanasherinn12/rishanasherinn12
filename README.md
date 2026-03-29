@@ -16,7 +16,7 @@ I have hands-on experience building **academic and real-world web applications**
 
 ## 🔭 Projects
 
-### 🏠 Hyper-Local Service Booking Platform [LocalServe](https://localserves.in)
+### 🏠 [Hyper-Local Service Booking Platform (LocalServe)](https://localserves.in)
 
 A Django-based web application for booking local services.
 
