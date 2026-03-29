@@ -16,13 +16,21 @@ I have hands-on experience building **academic and real-world web applications**
 
 ## 🔭 Projects
 
+### 🏠 Hyper-Local Service Booking Platform [LocalServe](https://localserves.in)
+
+A Django-based web application for booking local services.
+
+- Implements role-based access, booking lifecycle management, and admin workflow  
+- Integrated Stripe payment gateway for secure transactions  
+- Implemented Celery + Redis for asynchronous email notifications  
+- Deployed on AWS EC2 using Nginx and Gunicorn  
+
+🔗 **Live Demo:** [Visit LocalServe](https://localserves.in)  
+📂 **Source Code:** [GitHub Repository](https://github.com/rishanasherinn12/local-service-booking)
+
 **🧴 Cosmetic Suggestion Based on Skin Condition Using AI**  
 - MSc final year project using MobileNetV2 for skin condition classification  
 - Detects oily, dry, and acne-prone skin and recommends products using CSV-based logic  
-
-**🏠 Hyper-Local Service Booking Platform (Current)**  
-- Django-based web application for booking local services  
-- Implements role-based access, booking lifecycle management, and admin workflow  
 
 **🍽️ Food Blog Web Application**  
 - Django-based content platform for user-submitted recipes  
