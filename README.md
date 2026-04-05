@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishanasherinn12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=rishanasherinn12&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
   🎓 MSc & BSc in Computer Science • Python Full Stack Developer • 🤖 AI & Backend Development Enthusiast
@@ -21,6 +22,8 @@ I have hands-on experience building **academic and real-world web applications**
 ## 🔭 Projects
 
 **🏠 Hyper-Local Service Booking Platform (LocalServe)**  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishanasherinn12&repo=local-service-booking&theme=tokyonight)](https://github.com/rishanasherinn12/local-service-booking)
 A Django-based web application for booking local services.
 
 - Implements role-based access, booking lifecycle management, and admin workflow  
