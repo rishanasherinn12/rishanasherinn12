@@ -21,10 +21,7 @@ I have hands-on experience building **academic and real-world web applications**
 ## 🔭 Projects
 
 **🏠 Hyper-Local Service Booking Platform (LocalServe)**  
-
-(https://github.com/rishanasherinn12/local-service-booking)
-A Django-based web application for booking local services.
-
+- A Django-based web application for booking local services.
 - Implements role-based access, booking lifecycle management, and admin workflow  
 - Integrated Stripe payment gateway for secure transactions  
 - Implemented Celery + Redis for asynchronous email notifications  
