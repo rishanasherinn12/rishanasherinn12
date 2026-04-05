@@ -1,6 +1,10 @@
 ## <h1 align="center">✨ Hi, I'm Rishana Sherin 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishanasherinn12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   🎓 MSc & BSc in Computer Science • Python Full Stack Developer • 🤖 AI & Backend Development Enthusiast
 </p>
 
@@ -94,6 +98,14 @@ A Django-based web application for booking local services.
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![Rishana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishanasherinn12&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishanasherinn12&layout=compact)
 
 ---
 
