@@ -101,14 +101,6 @@ A Django-based web application for booking local services.
 
 ---
 
-## 📊 GitHub Stats
-
-![Rishana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishanasherinn12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishanasherinn12&layout=compact)
-
----
-
 ⭐ *Focused on growth, consistency, and building meaningful software.*
 
 <!--
